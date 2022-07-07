@@ -25,4 +25,4 @@ use of this font to promote 국민의힘国民の力(and any succesive or relate
 
 ## purchase
 
-you can purchase this font from [itch.io](https://eastriverlee.itch.io/melonbrain), or contact me directly.
+you can purchase this font from [here](https://eastriverlee.itch.io/melonbrain), or contact me directly.
