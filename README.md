@@ -8,7 +8,8 @@
 - "melonbrain" is a korean monospace font made by, and for programmers.
 - all(11,172) the modern korean letters are supported.  
 - melonbrain's alphanumeric glyphs are influenced by [JetBrains Mono](https://www.jetbrains.com/lp/mono/) as the name suggests, but no single glyphs are the same, for this is a new font.
-- future updates are coming, like more ligatures and maybe european letters, as I am currently making an offspring variable font from this.  
+- some ligatures may be added in the future.
+- an offspring variable font from this, better than this in many ways(or maybe lost its charm depending on your perspective), 셈틀체semteulche is being crowdfunded [here](https://link.tumblbug.com/VAw8x20FMrb).
   
   
 ## license
